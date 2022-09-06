@@ -9,9 +9,6 @@ Le premier album studio du duo, Le Monde Chico, sort en 2015, suivi par Dans la 
 PNL remportent le prix de la « meilleure création audiovisuelle » lors de l'édition 2020 des Victoires de la musique, pour le clip du titre Au DD,
 figurant dans ce dernier album.
 
-![image](https://user-images.githubusercontent.com/112948849/188632240-1304f98b-41a3-4719-83d9-ce406c9d09aa.png)
-[PNL JUSQU'AU DERNIER GRAMME](https://www.youtube.com/watch?v=w4owJamctrI&list=OLAK5uy_lRos5d1J_tEj-nHL8WnL-dqBunbWGBp4k&index=16)
-
 <a href="https://www.youtube.com/watch?v=w4owJamctrI&list=OLAK5uy_lRos5d1J_tEj-nHL8WnL-dqBunbWGBp4k&index=16" target="_blank"><img src="https://user-images.githubusercontent.com/112948849/188632240-1304f98b-41a3-4719-83d9-ce406c9d09aa.png" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
@@ -20,6 +17,3 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
